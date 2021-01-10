@@ -4,7 +4,7 @@ long_description = open('README.md').read()
 
 setup(
   name='Discord Webhooks',
-  version='1.0.4',
+  version='1.0.5',
   py_modules=['discord_webhooks'],
   url='https://github.com/JamesIves/discord-webhooks',
   author='James Ives',
