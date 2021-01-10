@@ -136,7 +136,7 @@ class DiscordWebhooks:
       embed['footer']['text'] = self.footer_text
 
     # If the embed object has content it gets appended to the payload
-    if embed:
+if not all(value in [{},[]] for value in embed.values()):
       payload['embeds'] = []
       payload['embeds'].append(embed)
 
