@@ -8,7 +8,7 @@ Simple module for Python which allows for sending of webhooks to a [Discord serv
 The `Discord-Webhooks` module can be installed into your project via Pip.
 
 ```
-$ pip install git+https://github.com/DoggieLicc/discord-webhooks.git#
+$ pip install git+https://github.com/DoggieLicc/discord-webhooks.git#egg=discord-webhooks
 ```
 
 ## Getting Started :airplane:
