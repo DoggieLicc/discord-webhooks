@@ -4,6 +4,8 @@
 
 Simple module for Python which allows for sending of webhooks to a [Discord server](https://discordapp.com/).
 
+This is a fork of [Jameslves' module](https://github.com/JamesIves/discord-webhooks) that fixes an issue of an embed being sent when no attributes were set.
+
 ## Installation Steps 💽
 The `Discord-Webhooks` module can be installed into your project via Pip.
 
