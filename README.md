@@ -13,6 +13,8 @@ The `Discord-Webhooks` module can be installed into your project via Pip.
 $ pip install git+https://github.com/DoggieLicc/discord-webhooks.git#egg=discord-webhooks
 ```
 
+Alternatively, simply download [discord_webhooks.py](https://github.com/DoggieLicc/discord-webhooks/blob/master/discord_webhooks.py) and put it in the same directory as your program.
+
 ## Getting Started :airplane:
 
 Import the package into your project and initialize it to get started. You must pass the [webhook URL you obtained from your Discord channel in as the argument](https://support.discordapp.com/hc/en-us/articles/228383668-Intro-to-Webhooks). 
